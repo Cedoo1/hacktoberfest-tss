@@ -1,5 +1,5 @@
 This repository is for hacktoberfest.
 
-#contributers
+# Contributers
 
-NicyN
+- NicyN
