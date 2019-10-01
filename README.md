@@ -5,3 +5,4 @@ This repository is for hacktoberfest.
 - NicyN
 - dendthor
 - isieasygoing
+- a-martini
