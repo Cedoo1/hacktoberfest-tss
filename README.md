@@ -6,3 +6,4 @@ This repository is for hacktoberfest.
 - dendthor
 - isieasygoing
 - a-martini
+- Cedoo1
